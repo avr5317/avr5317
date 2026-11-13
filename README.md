@@ -24,7 +24,8 @@ Most of what you will find here came from hackathons and coursework, often built
 ## A small tour of my work
 
 <div align="center">
-  <img src="assets/projects-overview.svg" alt="Overview of projects" width="100%" />
+ <img width="820" height="466" alt="image" src="https://github.com/user-attachments/assets/d8e85bb3-bed7-4ce9-9753-7cb2b09e6961" />
+
 </div>
 
 ## Projects I have enjoyed building
