@@ -14,7 +14,7 @@ MS in Information Systems at Northeastern University &nbsp;•&nbsp; Previously 
 <br>
 Full stack, backend, and applied AI
 
-[Portfolio](https://avadhanam-vinaya-rekha-portfolio.netlify.app/) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/avadhanamvinayarekha/) &nbsp;•&nbsp; [Email](mailto:lnu.ava@northeastern.edu)
+[Portfolio](https://avadhanam-vinaya-rekha-portfolio-2026.netlify.app/) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/avadhanamvinayarekha/) &nbsp;•&nbsp; [Email](mailto:lnu.ava@northeastern.edu)
 
 </div>
 
