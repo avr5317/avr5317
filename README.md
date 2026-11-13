@@ -3,6 +3,8 @@
 <!-- OPTIONAL: add a photo by uploading it to assets/ and uncommenting the line below -->
 <!-- <img src="assets/photo.jpg" width="150" alt="Avadhanam Vinaya Rekha" /> -->
 
+<img width="468" height="279" alt="linkedin-headshot" src="https://github.com/user-attachments/assets/a25e0b8b-8731-4011-b7cb-91adbf1dbae6" />
+
 # Hi, I'm Vinaya Rekha 👋
 
 MS in Information Systems at Northeastern University &nbsp;•&nbsp; Previously a Software Development Engineer at Accenture
