@@ -3,7 +3,8 @@
 <!-- OPTIONAL: add a photo by uploading it to assets/ and uncommenting the line below -->
 <!-- <img src="assets/photo.jpg" width="150" alt="Avadhanam Vinaya Rekha" /> -->
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/eb149e19-d480-465d-ab73-ad1bb505e428" />
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/e8b0b56b-8415-49c9-a2e1-a9e7567088c8" />
+
 
 
 # Hi, I'm Vinaya Rekha 👋
