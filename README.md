@@ -5,7 +5,7 @@
 
 
 
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/e60b857a-e9f4-4228-a2d6-bb284bb2797f" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e60b857a-e9f4-4228-a2d6-bb284bb2797f" />
 
 
 # Hi, I'm Vinaya Rekha 👋
